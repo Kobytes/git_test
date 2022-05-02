@@ -6,7 +6,8 @@
   ▐█▌·▐█▄▄▌▐█▄▪▐█  ▐█▌·
   ▀▀▀  ▀▀▀  ▀▀▀▀   ▀▀▀
 ```
-[]: # Language: Markdown
-[]: # Path: README.md
-[]: # Made by : Koby (Thomas)
-[]: # Message : Hello Odin !
+# Language: Markdown
+# Path: README.md
+# Made by : Koby (Thomas)
+
+# Message : Hello Odin !
